@@ -37,7 +37,7 @@ public class SELECTIONSORT {
     public static void main(String args[])
     {
         int arr[] = {333,35,00,4323,17};
-                System.out.println("SEBELUM DI GUNAKAN INSERTION SORT");
+                System.out.println("SEBELUM DI GUNAKAN SELECTION SORT");
             for(int i = 0; i < arr.length; i++)
             {
                 System.out.println(arr[i] + "");
@@ -45,7 +45,7 @@ public class SELECTIONSORT {
                 System.out.println("");
                 SELECTIONSORT ob = new SELECTIONSORT();
                 ob.sort(arr);
-                System.out.println("SESUDAH DI GUNAKAN INSERTION SORT");
+                System.out.println("SESUDAH DI GUNAKAN SELECTION SORT");
             for(int i = 0; i < arr.length; i++)
             {
                 System.out.println(arr[i] + "");
