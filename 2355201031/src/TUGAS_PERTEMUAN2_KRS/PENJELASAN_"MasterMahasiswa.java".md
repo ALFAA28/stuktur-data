@@ -10,4 +10,4 @@ SAYA MEMBUAT FILE INI BERISI FOTO SS UNTUK MENJELASKAN FILE "MasterMahasiswa.jav
 
 3. ![image](https://github.com/user-attachments/assets/f3e6fd48-f88e-4fc2-925c-bd9929c1011c)
 
--Kelas ini memiliki beberapa atribut yang menyimpan informasi tentang mahasiswa, seperti nama, NIM, dosen wali, fakultas, jurusan, dan jenis kelamin.(gambar 3).
+-Kelas ini memiliki beberapa atribut yang menyimpan informasi tentang mahasiswa, seperti nama, NIM, dosen wali, fakultas, jurusan, dan jenis kelamin dalam bentuk String.(gambar 3).
