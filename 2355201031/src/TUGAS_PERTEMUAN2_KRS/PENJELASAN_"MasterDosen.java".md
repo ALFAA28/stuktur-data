@@ -4,7 +4,7 @@ SAYA MEMBUAT FILE INI BERISI FOTO SS UNTUK MENJELASKAN FILE "MasterDosen.java" Y
 
  -menunjukkan bahwa kelas MasterDosen berada dalam paket TUGAS_PERTEMUAN2_KRS.(gambar 1).
 
-3. ![Cuplikan layar 2024-11-10 111317](https://github.com/user-attachments/assets/fb0bba64-af3a-45e1-8c07-8c201ec4546d)
+2. ![Cuplikan layar 2024-11-10 111317](https://github.com/user-attachments/assets/fb0bba64-af3a-45e1-8c07-8c201ec4546d)
    
 -Kelas MasterDosen dideklarasikan sebagai kelas publik, sehingga bisa diakses dari kelas-kelas lain yang berada dalam paket yang sama.(gambar 2).
 
