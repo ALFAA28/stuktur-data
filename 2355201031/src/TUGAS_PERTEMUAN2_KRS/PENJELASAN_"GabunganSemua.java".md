@@ -2,7 +2,7 @@ SAYA MEMBUAT FILE INI BERISI FOTO SS UNTUK MENJELASKAN FILE "GabunganSemua.java"
 
  1. ![Cuplikan layar 2024-11-10 110749](https://github.com/user-attachments/assets/befa5022-a6df-4fd8-bced-2ebff335ec4b)
 
- -menunjukkan bahwa kelas MasterSKSnjadwal berada dalam paket TUGAS_PERTEMUAN2_KRS.(gambar 1).
+ -menunjukkan bahwa kelas GabunganSemua berada dalam paket TUGAS_PERTEMUAN2_KRS.(gambar 1).
 
 2. ![image](https://github.com/user-attachments/assets/3ca524ee-7fe1-4b41-be29-cfbeb96adca4)
 
