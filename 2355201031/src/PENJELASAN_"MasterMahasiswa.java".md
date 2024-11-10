@@ -5,7 +5,9 @@ SAYA MEMBUAT FILE INI BERISI FOTO SS UNTUK MENJELASKAN FILE "MasterMahasiswa.jav
 -Ini menunjukkan bahwa kelas MasterMahasiswa berada dalam paket TUGAS_PERTEMUAN2_KRS.(gambar 1).
 
 2. ![image](https://github.com/user-attachments/assets/43f79f60-91b2-463f-a0df-c30bbcfbc1fb)
+   
 -Kelas MasterMahasiswa dideklarasikan sebagai kelas publik, sehingga bisa diakses dari kelas-kelas lain yang berada dalam paket yang sama.(gambar 2).
 
 3. ![image](https://github.com/user-attachments/assets/f3e6fd48-f88e-4fc2-925c-bd9929c1011c)
+
 -Kelas ini memiliki beberapa atribut yang menyimpan informasi tentang mahasiswa, seperti nama, NIM, dosen wali, fakultas, jurusan, dan jenis kelamin.(gambar 3).
