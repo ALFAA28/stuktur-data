@@ -10,4 +10,4 @@ SAYA MEMBUAT FILE INI BERISI FOTO SS UNTUK MENJELASKAN FILE "MasterDosen.java" Y
 
 3. ![Cuplikan layar 2024-11-10 111406](https://github.com/user-attachments/assets/3cd61258-60d6-43b2-92d3-c7a6b564f3a5)
    
--Kelas ini memiliki beberapa atribut berupa string yang masing-masing menyimpan nama dan gelar dosen.(gambar 3).
+-Kelas ini memiliki beberapa atribut berupa string yang masing-masing menyimpan nama dan gelar dosen dalam bentuk String.(gambar 3).
