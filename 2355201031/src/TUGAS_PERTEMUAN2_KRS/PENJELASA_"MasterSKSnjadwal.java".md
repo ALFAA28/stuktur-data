@@ -6,7 +6,7 @@ SAYA MEMBUAT FILE INI BERISI FOTO SS UNTUK MENJELASKAN FILE "MasterSKSnjadwal.ja
 
 3. ![image](https://github.com/user-attachments/assets/1ba4dc20-d204-422a-b8a9-0c36d46508c8)
 
--Kelas MasterDosen dideklarasikan sebagai kelas publik, sehingga bisa diakses dari kelas-kelas lain yang berada dalam paket yang sama.(gambar 2).
+-Kelas MasterSKSnjadwal dideklarasikan sebagai kelas publik, sehingga bisa diakses dari kelas-kelas lain yang berada dalam paket yang sama.(gambar 2).
 
 3. ![image](https://github.com/user-attachments/assets/cbc8d7a7-e79d-414b-86bc-77b75c33a597)
 
