@@ -8,34 +8,45 @@ package TUGAS_penilaian_mahasiswa;
  *
  * @author alfa wijaya
  */
-import java.util.Scanner;
+
 public class Nilaimahasiswa {
-            
-    // Method fungsi untuk menentukan keterangan lulus atau tidak
-    public static String tentukanKeterangan(int nilai) {
-        return (nilai > 70) ? "LULUS" : "TIDAK LULUS";
-    }
+double Nilai;
+String Nama;
 
-    // Method prosedur untuk menampilkan hasil
-    public static void tampilkanHasil(String nama, int nilai, String keterangan) {
-        System.out.println("Nama: " + nama);
-        System.out.println("Nilai: " + nilai);
-        System.out.println("Keterangan: " + keterangan);
-    }
+public String NAMA(String Nama){
+    this.Nama = Nama;
     
+    return Nama;
+}
+
+public double NILAI(double Nilai){
+    this.Nilai = Nilai;
+    
+    return Nilai;
+}
+
+public void KETERANGAN(){
+    if (Nilai >= 70){
+        System.out.println("LULUS");
+    }
+    else{
+        System.out.println("TIDAK LULUS");
+    }
+}
+
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Nilaimahasiswa Nm = new Nilaimahasiswa();
+    
+        System.out.println("NAMA        = " + Nm.NAMA("ALFA")); 
+        System.out.println("NILAI       = " + Nm.NILAI(60)); 
+        System.out.print(  "KETERANGAN  = " );
+        Nm.KETERANGAN();   
         
-        // Input nama dan nilai
-        System.out.print("Masukkan nama mahasiswa: ");
-        String nama = scanner.nextLine();
-        System.out.print("Masukkan nilai mahasiswa: ");
-        int nilai = scanner.nextInt();
+        System.out.println("NAMA        = " + Nm.NAMA("bagus")); 
+        System.out.println("NILAI       = " + Nm.NILAI(80)); 
+        System.out.print(  "KETERANGAN  = " );
+        Nm.KETERANGAN();
 
-        // Tentukan keterangan lulus atau tidak
-        String keterangan = tentukanKeterangan(nilai);
-
-        // Tampilkan hasil
-        tampilkanHasil(nama, nilai, keterangan);
+    
     }
 }
